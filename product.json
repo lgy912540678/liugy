@@ -1,0 +1,16 @@
+[
+    {
+        "title": "商城首页",
+        "desc": "用面向对象的编程思想去开发的商城，基于laravel框架进行开发，与后台进行交互，包括登录、注册和退出功能",
+        "imgName": "3",
+        "demoAddress": "1",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "商城列表页",
+        "desc": "用面向对象的编程思想去开发的商城，基于laravel框架进行开发，与后台进行交互，包括登录、注册和退出功能",
+        "imgName": "2",
+        "demoAddress": "2",
+        "codeAddress": "laravel"
+    }
+]
